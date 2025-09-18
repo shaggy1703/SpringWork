@@ -1,5 +1,4 @@
 package org.skypro.skyshop.model.search;
-
 import java.util.Objects;
 import java.util.UUID;
 
